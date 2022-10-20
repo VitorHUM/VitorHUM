@@ -21,10 +21,11 @@
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript">
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript">
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react">
-<img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs">
+<img margin="10px" height="40" src="https://i.imgur.com/TOWgyeo.png" alt="nextjs">
+<img margin="10px" height="40" src="https://i.imgur.com/LtCZOij.png" alt="cypress">
 <br>
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs">
-<img margin="10px" height="40" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express">
+<img margin="10px" height="40" src="https://i.imgur.com/gq6XrbN.png" alt="express">
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb">
 <br>
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma">
