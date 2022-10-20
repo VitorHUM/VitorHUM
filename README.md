@@ -29,7 +29,6 @@
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb">
 <br>
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma">
-<img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="adobexd">
 <img margin="10px" height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop">
 <img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="after-effects">
 </p>
