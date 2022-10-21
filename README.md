@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi , I'm Vitor Hugo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Vitor Hugo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"></h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00B4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer+%F0%9F%92%A1;Graduated+in+Computer+Science+%F0%9F%96%A5%EF%B8%8F;Hope+you+like+my+profile+%F0%9F%8E%89" alt="Typing SVG" /></a>
 </p>
 
-## :sassy_man:  About me
+## 💁‍♂️ About me
 - 🏫 I have a `degree` in Computer Science.
 - 👨‍💻 Web Development `Bootcamp` at Ironhack.
 - 😍 `Tech` lover.
