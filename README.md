@@ -10,6 +10,7 @@
 - 😍 `Tech` lover.
 - 🤔 I’m currently open for a new `job opportunity`.
 - 🤓 Meticulous, interested and always looking to learn and `improve my knowledge`.
+- 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://vitorhumoreira.github.io/).
 
 ## 🛠️ Tech Stack
 <p align="center">
