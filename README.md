@@ -31,7 +31,7 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb">
     <br>
     <br>
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma"> &nbsp
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop"> &nbsp
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="after-effects">
 </p>
