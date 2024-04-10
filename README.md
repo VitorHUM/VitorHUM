@@ -10,7 +10,7 @@
 - 😍 `Tech` lover.
 - 🤔 I’m currently open for a new `job opportunity`.
 - 🤓 Meticulous, interested and always looking to learn and `improve my knowledge`.
-- 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://vitorhumoreira.github.io/).
+- 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://vitorhum.github.io/).
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -38,7 +38,7 @@
 
 ## 📞 Contact me
 <p align="center">
-    <a  href="https://www.linkedin.com/in/vitorhumoreira/" target="_blank">
+    <a  href="https://www.linkedin.com/in/vitorhum/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
     <a href="mailto:vitorhumoreira@gmail.com" target="_blank">
