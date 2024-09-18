@@ -23,11 +23,8 @@
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"> &nbsp
     <img height="40" src="https://i.imgur.com/TOWgyeo.png" alt="nextjs"> &nbsp
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native"> &nbsp
-    <img height="40" src="https://i.imgur.com/LtCZOij.png" alt="cypress">
     <br>
     <br>
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/fastify.svg" alt="fastify"> &nbsp
@@ -35,8 +32,6 @@
     <br>
     <br>
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"> &nbsp
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql"> &nbsp
-    <img height="40" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite"> &nbsp
     <img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb">
     <br>
     <br>
