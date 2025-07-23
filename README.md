@@ -9,7 +9,7 @@
 - 👨‍💻 Web Development `Bootcamp` at Ironhack.
 - 😍 `Tech` lover.
 - 🤓 Meticulous, interested and always looking to learn `new technologies`.
-- 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://vitorhum.github.io/).
+- 📰 If you want to know more about me, feel free to access my [`personal portfolio`](https://vitorhum.com.br/).
 
 ## 🛠️ Tech Stack
 <p align="center">
